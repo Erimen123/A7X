@@ -1238,3 +1238,16 @@ img {
     font-size: 18px; }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/*================================================ Dropdowns css  ==============================================*/
+
+.dropdown{
+  width: 500px;
+}
+
+.dropdown li{
+  width:250px;
+}
+
+
