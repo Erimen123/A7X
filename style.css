@@ -1242,12 +1242,34 @@ img {
 
 /*================================================ Dropdowns css  ==============================================*/
 
-.dropdown{
-  width: 500px;
+.dropdown {
+  width: 250px !important;
 }
 
-.dropdown li{
-  width:250px;
+/*.dropdown li a{
+  width:400px !important;
+}*/
+
+.classy-navbar{
+  width:100%;
+}
+.classnav ul li {
+  padding:155px 1px !important;
+  margin-left:0px !important;
+  margin-right: 0px !important;
+}
+
+/* ==================================================== Contact.html content =============================================================*/
+
+#contact-content{
+  width:77%;
+  margin:auto;
 }
 
 
+/*==================================================== Contact.html content =============================================================*/
+
+#info-content{
+  width:77%;
+  margin:auto;
+}
