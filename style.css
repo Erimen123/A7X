@@ -1238,3 +1238,38 @@ img {
     font-size: 18px; }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/*================================================ Dropdowns css  ==============================================*/
+
+.dropdown {
+  width: 250px !important;
+}
+
+/*.dropdown li a{
+  width:400px !important;
+}*/
+
+.classy-navbar{
+  width:100%;
+}
+.classnav ul li {
+  padding:155px 1px !important;
+  margin-left:0px !important;
+  margin-right: 0px !important;
+}
+
+/* ==================================================== Contact.html content =============================================================*/
+
+#contact-content{
+  width:77%;
+  margin:auto;
+}
+
+
+/*==================================================== Contact.html content =============================================================*/
+
+#info-content{
+  width:77%;
+  margin:auto;
+}
