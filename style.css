@@ -444,7 +444,7 @@ img {
       top: 0;
       right: 0;
       z-index: 1;
-      background-color: #83c331;
+      /*background-color: #83c331;*/
       content: ''; }
 
 .hero-slides {
@@ -1267,9 +1267,41 @@ img {
 }
 
 
-/*==================================================== Contact.html content =============================================================*/
+/*==================================================== info.html content =============================================================*/
 
-#info-content{
-  width:77%;
+#info-content {
+  width: 77%;
+  margin: auto;
+}
+/*==================================================== news.html content =============================================================*/
+
+#news_text {
+  width:80%;
+  margin: auto;
+  text-align: center;
+  }
+
+.classynav ul li a {
+    padding: 0 24px;
+    }
+
+/*============================================== faculty.html content=================================================================*/
+#faculty_content{
+  width:80%;
   margin:auto;
+}
+.grid_2{
+  display:inline-block;
+  padding: 0% 1%;
+  margin-left: 3%;
+}
+.details{
+  display: none;
+}
+.grid_2:hover .details{
+  display: block;
+  position: absolute;
+  text-align: center; 
+  margin-top: 140px;
+  margin-left: 23px;
 }
